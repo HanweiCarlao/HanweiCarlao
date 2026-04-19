@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I've been living in Taiwan since 2016
+Fluent in Mandarin, English, Spanish, Portuguese
+Currently learning C++
 <!--
 **HanweiCarlao/HanweiCarlao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
